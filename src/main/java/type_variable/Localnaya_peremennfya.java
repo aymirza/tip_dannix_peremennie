@@ -1,3 +1,5 @@
+package type_variable;
+
 public class Localnaya_peremennfya {
 
     public void pupAge(){
