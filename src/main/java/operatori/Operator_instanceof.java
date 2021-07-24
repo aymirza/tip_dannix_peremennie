@@ -1,6 +1,7 @@
 package operatori;
 
-class Vehicle{}
+class Vehicle {
+}
 
 public class Operator_instanceof extends Vehicle {
 
@@ -11,14 +12,9 @@ public class Operator_instanceof extends Vehicle {
         System.out.println(result);
 
 
-
-        // String name = "Олег";
-        // boolean result = name instanceof String;
-        // System.out.println(result);
-
-
-
-
+        String name = "Олег";
+        boolean result2 = name instanceof String;
+        System.out.println(result2);
 
 
     }
