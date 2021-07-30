@@ -1,4 +1,4 @@
-package Class_Objects_Method.Cat;
+package OOP.Class_Objects_Method.Cat;
 
 public class Cat_static {
     String name;

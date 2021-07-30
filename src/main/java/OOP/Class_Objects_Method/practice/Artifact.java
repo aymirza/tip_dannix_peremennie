@@ -1,4 +1,4 @@
-package Class_Objects_Method.practice;
+package OOP.Class_Objects_Method.practice;
 
 public class Artifact {
 

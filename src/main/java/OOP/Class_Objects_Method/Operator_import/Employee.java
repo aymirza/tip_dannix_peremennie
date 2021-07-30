@@ -1,4 +1,4 @@
-package Class_Objects_Method.Operator_import;
+package OOP.Class_Objects_Method.Operator_import;
 
 public class Employee {
     String name;

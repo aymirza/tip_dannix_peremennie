@@ -1,4 +1,4 @@
-package Class_Objects_Method.Dostup_k_peremennim_i_metodam_v_Java;
+package OOP.Class_Objects_Method.Dostup_k_peremennim_i_metodam_v_Java;
 
 public class Puppy {
 

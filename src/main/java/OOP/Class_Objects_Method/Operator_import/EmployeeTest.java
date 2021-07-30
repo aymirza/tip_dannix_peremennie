@@ -1,4 +1,4 @@
-package Class_Objects_Method.Operator_import;
+package OOP.Class_Objects_Method.Operator_import;
 
 public class EmployeeTest {
     public static void main(String[] args) {

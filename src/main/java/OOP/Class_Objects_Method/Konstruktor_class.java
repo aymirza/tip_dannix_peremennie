@@ -1,4 +1,4 @@
-package Class_Objects_Method;
+package OOP.Class_Objects_Method;
 
 public class Konstruktor_class {
 
