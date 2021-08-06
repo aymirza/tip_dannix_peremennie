@@ -1,0 +1,1 @@
+This is simple file with some text designed to demonstrate copying of files.
